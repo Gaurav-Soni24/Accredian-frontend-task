@@ -1,4 +1,4 @@
-# 🎨 RefPay Frontend
+# 🎨 Refer and Pay Frontend
 
 Welcome to the **RefPay Frontend**! 🚀 This is the user interface for **RefPay**, a referral system that lets users effortlessly manage and track their referral bonuses. The frontend is built with **React + Vite**, styled using **Tailwind CSS**, and deployed on **Vercel** for quick and smooth performance. 💻✨
 
